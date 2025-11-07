@@ -194,13 +194,10 @@ Open: `http://localhost:5173`
 
 # 🎥 Demo Video
 
-Add unlisted video link:
 
-```
-https://your-demo-link-here
-```
 
-Recommended flow: product → cart → update → remove → checkout → receipt.
+[Walk through Video](https://youtu.be/qYWUzv7Hffo)
+
 
 ---
 
